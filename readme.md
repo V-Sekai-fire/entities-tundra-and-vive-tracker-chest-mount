@@ -8,8 +8,8 @@ Each folder holds one designer's printable meshes, the CAD sources where the des
 
 ## Build and run
 
-Print the meshes from one folder, then fit them with a tracker to a camera chest harness.
+Print the meshes from one folder, then fit them to an adjustable camera chest harness. The mount takes one tracker with a mounting screw for the chest; a second tracker for the hips is optional.
 
 ## Licence
 
-LICENSE.md attributes each design and the harness to their sources and does not state a licence.
+LICENSE.md links each design, the harness and a tracker developer-mode document to their sources, and does not state a licence.
